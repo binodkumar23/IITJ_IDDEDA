@@ -15,10 +15,10 @@ To make changes:
 
 (1) Refer the opcode, and funct values used in cpu.cpp ( They can be changed as well, as long as they follow the standards)
 (2) Edit the instruction in instruction memory accordingly, in the set of 32 bits
-==============================================================================================================================
+
 
 Project done by: Vipul Sharma(B19CSE099) and Darsh Patel(B19CSE115)
 
-==============================================================================================================================
+=======================================================================================================
 
 For any query/suggestions: please write to Dr. Binod Kumar (binod@iitj.ac.in)
