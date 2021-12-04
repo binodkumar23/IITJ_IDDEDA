@@ -1,3 +1,5 @@
+Project name: Simple RISCV CPU design in SystemC
+===========================================================================================================================
 To run: 
 
 (0) Ensure that SystemC is installed at path, /usr/local/systemc-2.3.2/
