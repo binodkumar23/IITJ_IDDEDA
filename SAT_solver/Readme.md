@@ -55,3 +55,8 @@ Now, the code has input string and the solution vector vec.
 
 The code returns 1 if the solution verifies the CNF formula and 0 otherwise.
 
+===================================================================================
+
+For any query/suggestions: please write to Binod Kumar (binod@iitj.ac.in)
+
+
