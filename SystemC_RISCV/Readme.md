@@ -19,6 +19,6 @@ To make changes:
 
 Project done by: Vipul Sharma(B19CSE099) and Darsh Patel(B19CSE115)
 
-=======================================================================================================
+===================================================================================
 
-For any query/suggestions: please write to Dr. Binod Kumar (binod@iitj.ac.in)
+For any query/suggestions: please write to Binod Kumar (binod@iitj.ac.in)
