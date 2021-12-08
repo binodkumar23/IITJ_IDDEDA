@@ -17,3 +17,12 @@ dpllCircuitSolve.py:
 	The values for which it is satisfiable
      else:
 	None
+	
+------------------------------------------------------------------------------------------------
+
+Program written by: Ronak Mohata (B20EE053) and Krishna Mohan (B20EE031)
+
+------------------------------------------------------------------------------------------------
+
+For queries, please contact Binod Kumar (binod@iitj.ac.in)
+	
