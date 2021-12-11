@@ -1,0 +1,29 @@
+# s27
+# 7 inputs
+# 4 outputs
+# 2 inverters
+# 8 gates ( 1 AND + 1 NAND + 2 ORs + 4 NORs)
+
+INPUT(G0)
+INPUT(G1)
+INPUT(G2)
+INPUT(G3)
+INPUT(G5)
+INPUT(G6)
+INPUT(G7)
+
+OUTPUT(G17)
+OUTPUT(G10)
+OUTPUT(G11)
+OUTPUT(G13)
+
+G14 = NOT(G0)
+G17 = NOT(G11)
+G8 = AND(G14, G6)
+G15 = OR(G12, G8)
+G16 = OR(G3, G8)
+G9 = NAND(G16, G15)
+G10 = NOR(G14, G11)
+G11 = NOR(G5, G9)
+G12 = NOR(G1, G7)
+G13 = NOR(G2, G12)
