@@ -1,0 +1,14 @@
+Total
+AWT : 45.31
+ATT : 56.25
+ART : 45.31
+
+Minimum
+AWT : 23.1
+ATT : 31.8
+ART : 23.1
+
+Maximum
+AWT : 58.4
+ATT : 71
+ART : 58.4
