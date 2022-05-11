@@ -1,0 +1,25 @@
+Real Time tasks Table is :- 
++---------+----------------------+----------------+-------------------+
+| Tasks   |   Execution Time(ci) |   Deadline(di) |   Time Period(ti) |
++=========+======================+================+===================+
+| T1      |                    1 |              4 |                 4 |
++---------+----------------------+----------------+-------------------+
+| T2      |                    2 |              6 |                 6 |
++---------+----------------------+----------------+-------------------+
+| T3      |                    3 |             12 |                12 |
++---------+----------------------+----------------+-------------------+
+
+Task Summary
+
+For Time   0 -   1 ; Task running is : T1 
+For Time   1 -   2 ; Task running is : T2 
+For Time   2 -   3 ; Task running is : T2 
+For Time   3 -   4 ; Task running is : T3 
+For Time   4 -   5 ; Task running is : T1 
+For Time   5 -   6 ; Task running is : T3 
+For Time   6 -   7 ; Task running is : T2 
+For Time   7 -   8 ; Task running is : T2 
+For Time   8 -   9 ; Task running is : T1 
+For Time   9 -  10 ; Task running is : T3 
+For Time  10 -  11 ; Task running is : No Task
+For Time  11 -  12 ; Task running is : No Task

@@ -1,0 +1,3 @@
+number_of_node number_of_edge
+edges in pair of parent child on number_of_edge different lines
+node_val execution_time deadline

@@ -1,0 +1,2 @@
+The task will be scheduled in following order:-
+T1 T2 T4 T3 T6 T5 
